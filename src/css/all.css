@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: skyblue;
+}
+h1 {
+    font-size: 28px;
+}
+#header {
+  width: 10px;
+  height: 20px;
+}
